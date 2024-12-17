@@ -11,6 +11,7 @@ Window에서는 cmake 오류나서, wsl 환경에서 진행해야 함.
 Precomputation parameter MATLAB과 교차 검증 완료하였음. 
 
 
+    git clone https://github.com/jeongheonn/TinyMPC_param_set
 
     cd TinyMPC_param_set 
     
