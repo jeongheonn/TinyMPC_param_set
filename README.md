@@ -8,7 +8,7 @@ Precomputation parameter MATLAB과 교차 검증 완료하였음.
 
 
 
-    cd TinyMPC 
+    cd TinyMPC_param_set 
     
     mkdir build 
     
