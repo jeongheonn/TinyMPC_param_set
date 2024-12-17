@@ -27,7 +27,7 @@ Precomputation parameter MATLAB과 교차 검증 완료하였음.
 
 
 
-matlab dlqr 쓰면 안됨. 그것은 rho 고려 안함
+matlab dlqr 쓰면 안됨. 그것은 rho 고려 안함. 
 
 
 
