@@ -32,4 +32,4 @@ matlab dlqr 쓰면 안됨. 그것은 rho 고려 안함
 
 
 
-241217. : coeff 연산 업데이트됨.
+241217 : coeff 연산 업데이트됨, R1 error fixed.
