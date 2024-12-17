@@ -12,6 +12,7 @@ Precomputation parameter MATLAB과 교차 검증 완료하였음.
 
 
     git clone https://github.com/jeongheonn/TinyMPC_param_set
+
     cd TinyMPC_param_set 
     
     mkdir build 
