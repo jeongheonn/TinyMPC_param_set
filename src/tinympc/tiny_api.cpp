@@ -87,8 +87,8 @@ int tiny_setup(TinySolver** solverp,
     work->g = tinyMatrix::Zero(nx, N);
     work->y = tinyMatrix::Zero(nu, N-1);
 
-    work->Q = (Q + rho * tinyMatrix::Identity(nx, nx)).diagonal();
-    work->R = (R + rho * tinyMatrix::Identity(nu, nu)).diagonal();
+    work->Q = Q.diagonal();
+    work->R = R.array().matrix().diagonal();
     work->Adyn = Adyn;
     work->Bdyn = Bdyn;
 
