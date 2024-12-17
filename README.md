@@ -1,6 +1,12 @@
 This code is based on the following Git repository: https://github.com/TinyMPC/TinyMPC.
 
 
+
+<TinyMPC PreComputation Parameter 뽑는 코드>
+
+
+
+'''
     
 Window에서는 cmake 오류나서, wsl 환경에서 진행해야 함. 
 
